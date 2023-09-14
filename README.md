@@ -27,10 +27,23 @@ To investigate the Top Private Domain, clicked on link to access the domain view
 <br/><br/><br/><br/><br/>
 
 <h2>Investigate the affected assets and events</h2>
-<p>
-  <img src="https://i.imgur.com/6KqAxqS.png" alt="image"/>
-  <p align = center>fdsafdsa</p>
-</p>
+<table>
+<tr>
+<td>
+  <!-- Image goes here -->
+  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" width="200"/>
+</td>
+<td>
+  <!-- Text goes here -->
+  Your text goes here. It will be displayed to the right of the image.
+</td>
+</tr>
+</table>
+<img src="https://i.imgur.com/6KqAxqS.png" alt="image" text="fsfdsdfljslfd"/>
+To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24 events or interactions with this domain.  
+<br/><br/><br/>
+
 <img src="https://i.imgur.com/0rt34yr.png" alt="image"/>
+
 <img src="https://i.imgur.com/hxMyfDm.png" alt="image"/>
 To investigate affected assets, back to the original domain view for signin.office365x24.com, clicked on one of the six assets on the left asset section. 
