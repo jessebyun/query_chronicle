@@ -25,4 +25,12 @@ To investigate the Top Private Domain, clicked on link to access the domain view
   <p align=center></p>ET INTELLIGENCE REP LIST insight card also reveals threat intelligence information about this domain category being: Drop site for logs or stolen credentials</p>
 </p>
 <br/><br/><br/><br/><br/>
-<h3>Investigate the affected assets and events</h3>
+
+<h2>Investigate the affected assets and events</h2>
+<p>
+  <img src="https://i.imgur.com/6KqAxqS.png" alt="image"/>
+  <p align = center>fdsafdsa</p>
+</p>
+<img src="https://i.imgur.com/0rt34yr.png" alt="image"/>
+<img src="https://i.imgur.com/hxMyfDm.png" alt="image"/>
+To investigate affected assets, back to the original domain view for signin.office365x24.com, clicked on one of the six assets on the left asset section. 
