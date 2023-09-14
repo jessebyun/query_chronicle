@@ -31,11 +31,11 @@ To investigate the Top Private Domain, clicked on link to access the domain view
 <tr>
 <td>
   <!-- Image goes here -->
-  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" width="1000"/>
+  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" size=80%>
 </td>
 <td>
   <!-- Text goes here -->
-  To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24 events or interactions with this domain.  
+  To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24   events or interactions with this domain.  
 </td>
 </tr>
 </table> 
