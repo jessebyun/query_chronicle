@@ -35,12 +35,10 @@ To investigate the Top Private Domain, clicked on link to access the domain view
 </td>
 <td>
   <!-- Text goes here -->
-  Your text goes here. It will be displayed to the right of the image.
+  To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24 events or interactions with this domain.  
 </td>
 </tr>
-</table>
-<img src="https://i.imgur.com/6KqAxqS.png" alt="image" text="fsfdsdfljslfd"/>
-To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24 events or interactions with this domain.  
+</table> 
 <br/><br/><br/>
 
 <img src="https://i.imgur.com/0rt34yr.png" alt="image"/>
