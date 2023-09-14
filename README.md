@@ -24,6 +24,5 @@ To investigate the Top Private Domain, clicked on link to access the domain view
   <br/><br/><br/>
   <p align=center></p>ET INTELLIGENCE REP LIST insight card also reveals threat intelligence information about this domain category being: Drop site for logs or stolen credentials</p>
 </p>
-<br/><br/><br/>
-
+<br/><br/><br/><br/><br/>
 <h3>Investigate the affected assets and events</h3>
