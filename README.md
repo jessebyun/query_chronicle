@@ -4,6 +4,10 @@ Scenario - Received an alert that an employee received a phishing email in their
 <br/>
 <br/>
 
-<h2>Perform domain search</h2>
+<h2>Domain search</h2>
 <img src="https://i.imgur.com/2KSovJy.png" alt="1"/>
-Observed when typing in "signin.office365x24.com" domain name in the search bar it is listed, indicating that domain exists in the ingested data. 
+Observed when typing in domain name "signin.office365x24.com" in the search bar it is listed, indicating that domain exists in the ingested data. 
+<br/><br/><br/>
+
+<h2>Evaluate the search results</h2>
+<img src="https://i.imgur.com/lNh2Bux.png" alt="2"/>
