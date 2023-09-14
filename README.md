@@ -31,7 +31,7 @@ To investigate the Top Private Domain, clicked on link to access the domain view
 <tr>
 <td>
   <!-- Image goes here -->
-  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" width="200"/>
+  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" width="1000"/>
 </td>
 <td>
   <!-- Text goes here -->
