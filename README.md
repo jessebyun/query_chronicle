@@ -27,21 +27,25 @@ To investigate the Top Private Domain, clicked on link to access the domain view
 <br/><br/><br/><br/><br/>
 
 <h2>Investigate the affected assets and events</h2>
+Information about the events and assets relating to the domain are separated into the two tabs: TIMELINE and ASSETS. 
+
 <table>
 <tr>
-<td>
+<td width="65%">
   <!-- Image goes here -->
-  <img src="https://i.imgur.com/6KqAxqS.png" alt="image" size=80%>
+  <img src="https://i.imgur.com/6KqAxqS.png" alt="image"/>
 </td>
 <td>
   <!-- Text goes here -->
-  To investigate affected assets and events, went back to the domain view for the original search: signin.office365x24.com. On the left section by clicking on timeline I can see there are 24   events or interactions with this domain.  
+  To investigate affected assets and events, went back to the domain view for the original domain search: signin.office365x24.com. By clicking on timeline I can see there are 24 events. Each event with a timestamp, asset identifier, and name of domain. 
 </td>
 </tr>
 </table> 
 <br/><br/><br/>
 
 <img src="https://i.imgur.com/0rt34yr.png" alt="image"/>
+Clicking on EXPAND ALL, details can be revealed about the HTTP requests made, including GET and POST requests. POST information is especially useful because it means that data was sent to the domain. It also suggests a possible successful phish. By clicking on an event, further information is provided from the raw data log of each specific event. 
+<br/><br/><br/>
 
 <img src="https://i.imgur.com/hxMyfDm.png" alt="image"/>
-To investigate affected assets, back to the original domain view for signin.office365x24.com, clicked on one of the six assets on the left asset section. 
+Clicking on the ASSSET tab, there are 6 assets that interacted with this domain. When clicking on a date on which the asset made interaction with the domain, there is further information that is populated. Information such as IP address, MAC address, dates when there was interaction with timestamps. 
