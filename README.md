@@ -52,6 +52,6 @@ Clicking on the ASSSET tab, there are 6 assets that interacted with this domain.
 <br/><br/><br/>
 
 <h2>Investigate resolved IP address</h2>
-<img src="https://i.imgur.com/S1hbWuI.png" alt="image"/>
+<img src="https://i.imgur.com/fZN6HDh.png" alt="image"/>
 Information was collected about the domain's reputation using threat intelligence, and I've identified the assets and events associated with the domain. Based on this information, it's clear that this domain is suspicious and most likely malicious. There is also one last thing to investigate. Attackers sometimes reuse infrastructure for multiple attacks. In these cases, multiple domain names resolve to the same IP address. Under the RESOLVED IPS insight card, I can investigate the associated IP address to identify if multiple domains use the same IP. 
 
